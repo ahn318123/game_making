@@ -1,5 +1,4 @@
-import pygame
-
+import pygame#ㅋㅋㅋ
 pygame.init()
 
 screen_width=480
